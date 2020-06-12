@@ -447,7 +447,7 @@ int calc(int noline , int setn)
 int main (){
     int choice=0;
     std::cout<<"\t\t\t\t\t\t############################Computer Organization Final Assignment Project###################################################### ";
-    std::cout<<"\t\t\t\t\t\t###############################NAME-SNEH SUMAN || ROLL NO-2019337###############################################################";
+    
     std::cout<<"\n\n\n\n\n\n\n\n\nEnter the choice to enter in program-1(cache memory mapping) or program-2(level -2 cache memory)";
     std::cout<<"\n\n\n\n\n\n\n\n\nEnter your choice (1,2)"<<endl;
     std::cin>>choice;
